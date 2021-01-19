@@ -1,0 +1,3 @@
+# Zadanko
+
+Pierwsze repozytorium-zadanko
